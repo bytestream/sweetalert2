@@ -1,3 +1,18 @@
+## [11.6.10](https://github.com/sweetalert2/sweetalert2/compare/v11.6.9...v11.6.10) (2022-11-20)
+
+
+### Bug Fixes
+
+* use zx for tools/*.mjs scripts ([48c422b](https://github.com/sweetalert2/sweetalert2/commit/48c422bce25d6951b58bb8a1a78a7857056fd50a))
+
+## [11.6.9](https://github.com/sweetalert2/sweetalert2/compare/v11.6.8...v11.6.9) (2022-11-17)
+
+
+### Bug Fixes
+
+* add types to bindClickHandler.js ([c9db31a](https://github.com/sweetalert2/sweetalert2/commit/c9db31af70d5e7bcd36d46cc25df34cb21f85f1d))
+* remove typesVersions ([dbf6e4d](https://github.com/sweetalert2/sweetalert2/commit/dbf6e4d7516111b369de63274bc48557b3e182f2))
+
 ## [11.6.8](https://github.com/sweetalert2/sweetalert2/compare/v11.6.7...v11.6.8) (2022-11-10)
 
 
